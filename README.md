@@ -18,6 +18,6 @@ I'm currently teaching myself how to use React, and MERN Stack, in Front End dev
 
 Thanks for checking out my profile! Feel free to reach out to me if you have any questions or just want to chat.
 
-🎧 Now playing: [Todome No Ichigeki](https://open.spotify.com/intl-es/track/3RqT5175BrzANXK3yaafEm?si=9c4099a10501492b) 
+🎧 Now playing: [The Vanished People - Mind 2 Mind](https://youtu.be/AFZhqZld4Hk?list=RDTi-kiB9UEHU) 
 
-<img src="https://i.scdn.co/image/ab67616d00001e0282ab0f8e9af3c915d4a0e7d5" alt="Vaundy" width="100" height="100"> 
+<img src="https://genius.com/The-vanished-people-mind-2-mind-lyrics" alt="Mind 2 Mind" width="100" height="100"> 
