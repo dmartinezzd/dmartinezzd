@@ -20,4 +20,4 @@ Thanks for checking out my profile! Feel free to reach out to me if you have any
 
 🎧 Now playing: [The Vanished People - Mind 2 Mind](https://youtu.be/AFZhqZld4Hk?list=RDTi-kiB9UEHU) 
 
-<img src="https://genius.com/The-vanished-people-mind-2-mind-lyrics" alt="Mind 2 Mind" width="100" height="100"> 
+<img src="https://images.genius.com/b0a53800711fb9c2a6dd96156a5dd6a1.1000x1000x1.png" alt="Mind 2 Mind" width="100" height="100"> 
